@@ -1,1 +1,2 @@
-# Task-2-LGM
+# LGMVIP-Task2
+Task 2 of Letsgrowmore Webdevelopment Internship.
